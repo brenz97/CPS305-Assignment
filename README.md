@@ -10,6 +10,7 @@ end = 's' <br />
 empty = '.' <br />
 occupied = 'o' <br />
 
+======
 
 e.g.
 
